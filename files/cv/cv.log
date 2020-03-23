@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.0-180121-2.6 (sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2018.2.3)  24 MAR 2020 04:47
+This is e-pTeX, Version 3.14159265-p3.8.0-180121-2.6 (sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2018.2.3)  24 MAR 2020 05:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -385,7 +385,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
 \c@paperCounter=\count118
-LaTeX Font Info:    Try loading font information for OMX+yhex on input line 129
+LaTeX Font Info:    Try loading font information for OMX+yhex on input line 131
 .
 
 (c:/w32tex/share/texmf-dist/tex/latex/yhmath/OMXyhex.fd
@@ -393,49 +393,49 @@ File: OMXyhex.fd
 File: OMXyhex.fd 2013/07/03 v1.1 YH's humble contribution to TeX maths (NP)
 )
 LaTeX Font Info:    External font `yhcmex10' loaded for size
-(Font)              <10> on input line 129.
+(Font)              <10> on input line 131.
 LaTeX Font Info:    External font `yhcmex10' loaded for size
-(Font)              <7> on input line 129.
+(Font)              <7> on input line 131.
 LaTeX Font Info:    External font `yhcmex10' loaded for size
-(Font)              <5> on input line 129.
+(Font)              <5> on input line 131.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 129.
+(Font)              scaled to size 6.72699pt on input line 131.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 129.
-LaTeX Font Info:    Try loading font information for U+msa on input line 129.
+(Font)              scaled to size 4.805pt on input line 131.
+LaTeX Font Info:    Try loading font information for U+msa on input line 131.
 
 (c:/w32tex/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 129.
+LaTeX Font Info:    Try loading font information for U+msb on input line 131.
 
 (c:/w32tex/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 129.
+(Font)              scaled to size 6.72699pt on input line 131.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 4.805pt on input line 129.
+(Font)              scaled to size 4.805pt on input line 131.
  [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 178.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 180.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 178.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 180.
  (./cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 178.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 178.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 180.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 180.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 178.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 180.
  ) 
 Here is how much of TeX's memory you used:
  6195 strings out of 493619
  87550 string characters out of 6150070
- 177566 words of memory out of 5000000
+ 176566 words of memory out of 5000000
  9719 multiletter control sequences out of 15000+600000
  14702 words of font info for 65 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 28i,5n,26p,515b,362s stack positions out of 5000i,500n,10000p,500000b,80000s
+ 28i,5n,26p,515b,419s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on cv.dvi (2 pages, 5508 bytes).
+Output written on cv.dvi (2 pages, 5552 bytes).
