@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.0-180121-2.6 (sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2018.2.3)  25 DEC 2020 16:14
+This is e-pTeX, Version 3.14159265-p3.8.0-180121-2.6 (sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2018.2.3)  25 DEC 2020 22:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -384,6 +384,14 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
+LaTeX Font Info:    Font shape `JT1/mc/m/it' in size <10> not available
+(Font)              Font shape `JT1/mc/m/n' tried instead on input line 122.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 122.
+LaTeX Font Info:    Font shape `JY1/mc/m/it' in size <10> not available
+(Font)              Font shape `JY1/mc/m/n' tried instead on input line 122.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 122.
  [1
 
 ]
@@ -430,12 +438,12 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
  ) 
 Here is how much of TeX's memory you used:
- 6195 strings out of 493619
- 87550 string characters out of 6150070
+ 6199 strings out of 493619
+ 87599 string characters out of 6150070
  176566 words of memory out of 5000000
- 9719 multiletter control sequences out of 15000+600000
- 14702 words of font info for 65 fonts, out of 8000000 for 9000
+ 9722 multiletter control sequences out of 15000+600000
+ 15048 words of font info for 66 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  28i,5n,26p,515b,362s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on cv.dvi (2 pages, 6280 bytes).
+Output written on cv.dvi (2 pages, 6340 bytes).
