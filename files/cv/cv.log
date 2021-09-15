@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.0-180121-2.6 (sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2018.2.3)  14 SEP 2021 02:41
+This is e-pTeX, Version 3.14159265-p3.8.0-180121-2.6 (sjis) (TeX Live 2017/W32TeX) (preloaded format=platex 2018.2.3)  15 SEP 2021 17:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -396,6 +396,9 @@ LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 
 ]
 \c@paperCounter=\count118
+Missing character: There is no ^^e2 in font cmr10!
+Missing character: There is no ^^80 in font cmr10!
+Missing character: There is no ^^93 in font cmr10!
 LaTeX Font Info:    Try loading font information for OMX+yhex on input line 195
 .
 
@@ -450,4 +453,4 @@ Here is how much of TeX's memory you used:
  934 hyphenation exceptions out of 8191
  28i,6n,26p,515b,419s stack positions out of 5000i,500n,10000p,500000b,80000s
 
-Output written on cv.dvi (3 pages, 10944 bytes).
+Output written on cv.dvi (3 pages, 10960 bytes).
