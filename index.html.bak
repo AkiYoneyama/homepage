@@ -34,13 +34,13 @@ padding-left:1em;
 
 
 
-<title> Akihito Yoneyama</title>
+<title> Academic Website of Akihito Yoneyama</title>
 </head>
 <body>
 
-<b><font size="+2">Akihito Yoneyama</font></b>
+<b><font size="+2">Academic Website of Akihito Yoneyama</font></b>
 <br><br>
-Email: yoneyama.aki [at] gmail.com / yoneyama [at] gokutan.c.u-tokyo.ac.jp
+Email: yoneyama.aki [at] gmail.com
 <br>
 Links: 
 <a href="https://scholar.google.com/citations?user=BcsLW9sAAAAJ&hl=ja&oi=ao">
@@ -169,6 +169,35 @@ arXiv:1812.03767
 <ol reversed>
 
 <li>
+Mar. 15-18, 2023 @ Chuo University
+<br>
+"New solutions to the tetrahedron equation associated with quantized six-vertex models"
+<br>
+<a href="https://www.mathsoc.jp/en/meeting/chuo23mar/">
+Mathematical Society of Japan Spring Meeting 2023
+</a>
+<br>
+<a href="files/msj2023spring.pdf" rel="noindex,noarchive,follow">Slide PDF (15 pages)</a>
+, <a href="files/msj2023spring_abs.pdf" rel="noindex,noarchive,follow">Abstract PDF (in Japanese)</a>
+</li>
+
+<br>
+
+<li>
+Mar. 4-8, 2023 @ Osaka Metropolitan University
+<br>
+"Tetrahedron equations associated with quantized six-vertex models"
+<br>
+<a href="https://hideya1.github.io/Okado60/">
+Integrable Systems and Quantum Groups —In Honor of Masato Okado's 60th Birthday—
+</a>
+<br>
+<a href="files/okado60.pdf" rel="noindex,noarchive,follow">Slide PDF (25 pages)</a>
+</li>
+
+<br>
+
+<li>
 Oct. 18-22, 2021 @ Online
 <br>
 "3D reflection maps from tetrahedron maps"
@@ -179,7 +208,7 @@ Combinatorial Representation Theory and Connections with Related Fields (RIMS Wo
 <br>
 <a href="files/RIMS2021.pdf" rel="noindex,noarchive,follow">Slide PDF (30 pages)</a>
 , <a href="files/RIMS2021.pptm" rel="noindex,noarchive,follow">Slide Powerpoint</a>
-, <a href="https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2216-07.pdf">RIMS Kôkyûroku (in Japanese)</a>
+, <a href="http://hdl.handle.net/2433/275498">RIMS Kôkyûroku (in Japanese)</a>
 </li>
 
 <br>
@@ -277,7 +306,7 @@ Infinite Analysis 19 Quantum Symmetries and Integrable Systems
 <hr>
 <br>
 
-Last Update: Jul. 29, 2022
+Last Update: Mar. 19, 2023
 
 <br><br>
 
